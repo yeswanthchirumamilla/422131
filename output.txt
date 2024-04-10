@@ -1,0 +1,2138 @@
+ 
+ more -d sample.txt
+ 
+more -f sample.txt
+ 
+more -u sample.txt
+ 
+more -s sample.txt
+ 
+more +5 sample.txt
+ 
+mmore +/Lorem sample.txt
+ 
+     1	Emma Smith
+     2	Liam Johnson
+     3	Olivia Williams
+     4	Noah Jones
+     5	Ava Brown
+     6	William Davis
+     7	Sophia Miller
+     8	James Wilson
+     9	Isabella Moore
+    10	Benjamin Taylor
+    11	Mia Anderson
+    12	Mason Thomas
+    13	Charlotte Jackson
+    14	Elijah White
+    15	Amelia Harris
+    16	Oliver Martin
+    17	Harper Thompson
+    18	Jacob Garcia
+    19	Evelyn Martinez
+    20	Lucas Robinson
+    21	Emma Smith
+    22	Liam Johnson
+    23	Olivia Williams
+    24	Noah Jones
+    25	Ava Brown
+    26	William Davis
+    27	Sophia Miller
+    28	James Wilson
+    29	Isabella Moore
+    30	Benjamin Taylor
+    31	Mia Anderson
+    32	Mason Thomas
+    33	Charlotte Jackson
+    34	Elijah White
+    35	Amelia Harris
+    36	Oliver Martin
+    37	Harper Thompson
+    38	Jacob Garcia
+    39	Evelyn Martinez
+    40	Lucas Robinson
+    41	Emma Smith
+    42	Liam Johnson
+    43	Olivia Williams
+    44	Noah Jones
+    45	Ava Brown
+    46	William Davis
+    47	Sophia Miller
+    48	James Wilson
+    49	Isabella Moore
+    50	Benjamin Taylor
+    51	Mia Anderson
+    52	Mason Thomas
+    53	Charlotte Jackson
+    54	Elijah White
+    55	Amelia Harris
+    56	Oliver Martin
+    57	Harper Thompson
+    58	Jacob Garcia
+    59	Evelyn Martinez
+    60	Lucas Robinson
+    61	Emma Smith
+    62	Liam Johnson
+    63	Olivia Williams
+    64	Noah Jones
+    65	Ava Brown
+    66	William Davis
+    67	Sophia Miller
+    68	James Wilson
+    69	Isabella Moore
+    70	Benjamin Taylor
+    71	Mia Anderson
+    72	Mason Thomas
+    73	Charlotte Jackson
+    74	Elijah White
+    75	Amelia Harris
+    76	Oliver Martin
+    77	Harper Thompson
+    78	Jacob Garcia
+    79	Evelyn Martinez
+    80	Lucas Robinson
+    81	Emma Smith
+    82	Liam Johnson
+    83	Olivia Williams
+    84	Noah Jones
+    85	Ava Brown
+    86	William Davis
+    87	Sophia Miller
+    88	James Wilson
+    89	Isabella Moore
+    90	Benjamin Taylor
+    91	Mia Anderson
+    92	Mason Thomas
+    93	Charlotte Jackson
+    94	Elijah White
+    95	Amelia Harris
+    96	Oliver Martin
+    97	Harper Thompson
+    98	Jacob Garcia
+    99	Evelyn Martinez
+   100	Lucas Robinson
+
+     1	Emma Smith
+     2	Liam Johnson
+     3	Olivia Williams
+     4	Noah Jones
+     5	Ava Brown
+     6	William Davis
+     7	Sophia Miller
+     8	James Wilson
+     9	Isabella Moore
+    10	Benjamin Taylor
+    11	Mia Anderson
+    12	Mason Thomas
+    13	Charlotte Jackson
+    14	Elijah White
+    15	Amelia Harris
+    16	Oliver Martin
+    17	Harper Thompson
+    18	Jacob Garcia
+    19	Evelyn Martinez
+    20	Lucas Robinson
+    21	Emma Smith
+    22	Liam Johnson
+    23	Olivia Williams
+    24	Noah Jones
+    25	Ava Brown
+    26	William Davis
+    27	Sophia Miller
+    28	James Wilson
+    29	Isabella Moore
+    30	Benjamin Taylor
+    31	Mia Anderson
+    32	Mason Thomas
+    33	Charlotte Jackson
+    34	Elijah White
+    35	Amelia Harris
+    36	Oliver Martin
+    37	Harper Thompson
+    38	Jacob Garcia
+    39	Evelyn Martinez
+    40	Lucas Robinson
+    41	Emma Smith
+    42	Liam Johnson
+    43	Olivia Williams
+    44	Noah Jones
+    45	Ava Brown
+    46	William Davis
+    47	Sophia Miller
+    48	James Wilson
+    49	Isabella Moore
+    50	Benjamin Taylor
+    51	Mia Anderson
+    52	Mason Thomas
+    53	Charlotte Jackson
+    54	Elijah White
+    55	Amelia Harris
+    56	Oliver Martin
+    57	Harper Thompson
+    58	Jacob Garcia
+    59	Evelyn Martinez
+    60	Lucas Robinson
+    61	Emma Smith
+    62	Liam Johnson
+    63	Olivia Williams
+    64	Noah Jones
+    65	Ava Brown
+    66	William Davis
+    67	Sophia Miller
+    68	James Wilson
+    69	Isabella Moore
+    70	Benjamin Taylor
+    71	Mia Anderson
+    72	Mason Thomas
+    73	Charlotte Jackson
+    74	Elijah White
+    75	Amelia Harris
+    76	Oliver Martin
+    77	Harper Thompson
+    78	Jacob Garcia
+    79	Evelyn Martinez
+    80	Lucas Robinson
+    81	Emma Smith
+    82	Liam Johnson
+    83	Olivia Williams
+    84	Noah Jones
+    85	Ava Brown
+    86	William Davis
+    87	Sophia Miller
+    88	James Wilson
+    89	Isabella Moore
+    90	Benjamin Taylor
+    91	Mia Anderson
+    92	Mason Thomas
+    93	Charlotte Jackson
+    94	Elijah White
+    95	Amelia Harris
+    96	Oliver Martin
+    97	Harper Thompson
+    98	Jacob Garcia
+    99	Evelyn Martinez
+   100	Lucas Robinson
+
+     1	Emma Smith
+     2	Liam Johnson
+     3	Olivia Williams
+     4	Noah Jones
+     5	Ava Brown
+     6	William Davis
+     7	Sophia Miller
+     8	James Wilson
+     9	Isabella Moore
+    10	Benjamin Taylor
+    11	Mia Anderson
+    12	Mason Thomas
+    13	Charlotte Jackson
+    14	Elijah White
+    15	Amelia Harris
+    16	Oliver Martin
+    17	Harper Thompson
+    18	Jacob Garcia
+    19	Evelyn Martinez
+    20	Lucas Robinson
+    21	Emma Smith
+    22	Liam Johnson
+    23	Olivia Williams
+    24	Noah Jones
+    25	Ava Brown
+    26	William Davis
+    27	Sophia Miller
+    28	James Wilson
+    29	Isabella Moore
+    30	Benjamin Taylor
+    31	Mia Anderson
+    32	Mason Thomas
+    33	Charlotte Jackson
+    34	Elijah White
+    35	Amelia Harris
+    36	Oliver Martin
+    37	Harper Thompson
+    38	Jacob Garcia
+    39	Evelyn Martinez
+    40	Lucas Robinson
+    41	Emma Smith
+    42	Liam Johnson
+    43	Olivia Williams
+    44	Noah Jones
+    45	Ava Brown
+    46	William Davis
+    47	Sophia Miller
+    48	James Wilson
+    49	Isabella Moore
+    50	Benjamin Taylor
+    51	Mia Anderson
+    52	Mason Thomas
+    53	Charlotte Jackson
+    54	Elijah White
+    55	Amelia Harris
+    56	Oliver Martin
+    57	Harper Thompson
+    58	Jacob Garcia
+    59	Evelyn Martinez
+    60	Lucas Robinson
+    61	Emma Smith
+    62	Liam Johnson
+    63	Olivia Williams
+    64	Noah Jones
+    65	Ava Brown
+    66	William Davis
+    67	Sophia Miller
+    68	James Wilson
+    69	Isabella Moore
+    70	Benjamin Taylor
+    71	Mia Anderson
+    72	Mason Thomas
+    73	Charlotte Jackson
+    74	Elijah White
+    75	Amelia Harris
+    76	Oliver Martin
+    77	Harper Thompson
+    78	Jacob Garcia
+    79	Evelyn Martinez
+    80	Lucas Robinson
+    81	Emma Smith
+    82	Liam Johnson
+    83	Olivia Williams
+    84	Noah Jones
+    85	Ava Brown
+    86	William Davis
+    87	Sophia Miller
+    88	James Wilson
+    89	Isabella Moore
+    90	Benjamin Taylor
+    91	Mia Anderson
+    92	Mason Thomas
+    93	Charlotte Jackson
+    94	Elijah White
+    95	Amelia Harris
+    96	Oliver Martin
+    97	Harper Thompson
+    98	Jacob Garcia
+    99	Evelyn Martinez
+   100	Lucas Robinson
+
+     1	Emma Smith
+     4	Liam Johnson
+     7	Olivia Williams
+    10	Noah Jones
+    13	Ava Brown
+    16	William Davis
+    19	Sophia Miller
+    22	James Wilson
+    25	Isabella Moore
+    28	Benjamin Taylor
+    31	Mia Anderson
+    34	Mason Thomas
+    37	Charlotte Jackson
+    40	Elijah White
+    43	Amelia Harris
+    46	Oliver Martin
+    49	Harper Thompson
+    52	Jacob Garcia
+    55	Evelyn Martinez
+    58	Lucas Robinson
+    61	Emma Smith
+    64	Liam Johnson
+    67	Olivia Williams
+    70	Noah Jones
+    73	Ava Brown
+    76	William Davis
+    79	Sophia Miller
+    82	James Wilson
+    85	Isabella Moore
+    88	Benjamin Taylor
+    91	Mia Anderson
+    94	Mason Thomas
+    97	Charlotte Jackson
+   100	Elijah White
+   103	Amelia Harris
+   106	Oliver Martin
+   109	Harper Thompson
+   112	Jacob Garcia
+   115	Evelyn Martinez
+   118	Lucas Robinson
+   121	Emma Smith
+   124	Liam Johnson
+   127	Olivia Williams
+   130	Noah Jones
+   133	Ava Brown
+   136	William Davis
+   139	Sophia Miller
+   142	James Wilson
+   145	Isabella Moore
+   148	Benjamin Taylor
+   151	Mia Anderson
+   154	Mason Thomas
+   157	Charlotte Jackson
+   160	Elijah White
+   163	Amelia Harris
+   166	Oliver Martin
+   169	Harper Thompson
+   172	Jacob Garcia
+   175	Evelyn Martinez
+   178	Lucas Robinson
+   181	Emma Smith
+   184	Liam Johnson
+   187	Olivia Williams
+   190	Noah Jones
+   193	Ava Brown
+   196	William Davis
+   199	Sophia Miller
+   202	James Wilson
+   205	Isabella Moore
+   208	Benjamin Taylor
+   211	Mia Anderson
+   214	Mason Thomas
+   217	Charlotte Jackson
+   220	Elijah White
+   223	Amelia Harris
+   226	Oliver Martin
+   229	Harper Thompson
+   232	Jacob Garcia
+   235	Evelyn Martinez
+   238	Lucas Robinson
+   241	Emma Smith
+   244	Liam Johnson
+   247	Olivia Williams
+   250	Noah Jones
+   253	Ava Brown
+   256	William Davis
+   259	Sophia Miller
+   262	James Wilson
+   265	Isabella Moore
+   268	Benjamin Taylor
+   271	Mia Anderson
+   274	Mason Thomas
+   277	Charlotte Jackson
+   280	Elijah White
+   283	Amelia Harris
+   286	Oliver Martin
+   289	Harper Thompson
+   292	Jacob Garcia
+   295	Evelyn Martinez
+   298	Lucas Robinson
+
+     4	Emma Smith
+     5	Liam Johnson
+     6	Olivia Williams
+     7	Noah Jones
+     8	Ava Brown
+     9	William Davis
+    10	Sophia Miller
+    11	James Wilson
+    12	Isabella Moore
+    13	Benjamin Taylor
+    14	Mia Anderson
+    15	Mason Thomas
+    16	Charlotte Jackson
+    17	Elijah White
+    18	Amelia Harris
+    19	Oliver Martin
+    20	Harper Thompson
+    21	Jacob Garcia
+    22	Evelyn Martinez
+    23	Lucas Robinson
+    24	Emma Smith
+    25	Liam Johnson
+    26	Olivia Williams
+    27	Noah Jones
+    28	Ava Brown
+    29	William Davis
+    30	Sophia Miller
+    31	James Wilson
+    32	Isabella Moore
+    33	Benjamin Taylor
+    34	Mia Anderson
+    35	Mason Thomas
+    36	Charlotte Jackson
+    37	Elijah White
+    38	Amelia Harris
+    39	Oliver Martin
+    40	Harper Thompson
+    41	Jacob Garcia
+    42	Evelyn Martinez
+    43	Lucas Robinson
+    44	Emma Smith
+    45	Liam Johnson
+    46	Olivia Williams
+    47	Noah Jones
+    48	Ava Brown
+    49	William Davis
+    50	Sophia Miller
+    51	James Wilson
+    52	Isabella Moore
+    53	Benjamin Taylor
+    54	Mia Anderson
+    55	Mason Thomas
+    56	Charlotte Jackson
+    57	Elijah White
+    58	Amelia Harris
+    59	Oliver Martin
+    60	Harper Thompson
+    61	Jacob Garcia
+    62	Evelyn Martinez
+    63	Lucas Robinson
+    64	Emma Smith
+    65	Liam Johnson
+    66	Olivia Williams
+    67	Noah Jones
+    68	Ava Brown
+    69	William Davis
+    70	Sophia Miller
+    71	James Wilson
+    72	Isabella Moore
+    73	Benjamin Taylor
+    74	Mia Anderson
+    75	Mason Thomas
+    76	Charlotte Jackson
+    77	Elijah White
+    78	Amelia Harris
+    79	Oliver Martin
+    80	Harper Thompson
+    81	Jacob Garcia
+    82	Evelyn Martinez
+    83	Lucas Robinson
+    84	Emma Smith
+    85	Liam Johnson
+    86	Olivia Williams
+    87	Noah Jones
+    88	Ava Brown
+    89	William Davis
+    90	Sophia Miller
+    91	James Wilson
+    92	Isabella Moore
+    93	Benjamin Taylor
+    94	Mia Anderson
+    95	Mason Thomas
+    96	Charlotte Jackson
+    97	Elijah White
+    98	Amelia Harris
+    99	Oliver Martin
+   100	Harper Thompson
+   101	Jacob Garcia
+   102	Evelyn Martinez
+   103	Lucas Robinson
+
+     1...Emma Smith
+     2...Liam Johnson
+     3...Olivia Williams
+     4...Noah Jones
+     5...Ava Brown
+     6...William Davis
+     7...Sophia Miller
+     8...James Wilson
+     9...Isabella Moore
+    10...Benjamin Taylor
+    11...Mia Anderson
+    12...Mason Thomas
+    13...Charlotte Jackson
+    14...Elijah White
+    15...Amelia Harris
+    16...Oliver Martin
+    17...Harper Thompson
+    18...Jacob Garcia
+    19...Evelyn Martinez
+    20...Lucas Robinson
+    21...Emma Smith
+    22...Liam Johnson
+    23...Olivia Williams
+    24...Noah Jones
+    25...Ava Brown
+    26...William Davis
+    27...Sophia Miller
+    28...James Wilson
+    29...Isabella Moore
+    30...Benjamin Taylor
+    31...Mia Anderson
+    32...Mason Thomas
+    33...Charlotte Jackson
+    34...Elijah White
+    35...Amelia Harris
+    36...Oliver Martin
+    37...Harper Thompson
+    38...Jacob Garcia
+    39...Evelyn Martinez
+    40...Lucas Robinson
+    41...Emma Smith
+    42...Liam Johnson
+    43...Olivia Williams
+    44...Noah Jones
+    45...Ava Brown
+    46...William Davis
+    47...Sophia Miller
+    48...James Wilson
+    49...Isabella Moore
+    50...Benjamin Taylor
+    51...Mia Anderson
+    52...Mason Thomas
+    53...Charlotte Jackson
+    54...Elijah White
+    55...Amelia Harris
+    56...Oliver Martin
+    57...Harper Thompson
+    58...Jacob Garcia
+    59...Evelyn Martinez
+    60...Lucas Robinson
+    61...Emma Smith
+    62...Liam Johnson
+    63...Olivia Williams
+    64...Noah Jones
+    65...Ava Brown
+    66...William Davis
+    67...Sophia Miller
+    68...James Wilson
+    69...Isabella Moore
+    70...Benjamin Taylor
+    71...Mia Anderson
+    72...Mason Thomas
+    73...Charlotte Jackson
+    74...Elijah White
+    75...Amelia Harris
+    76...Oliver Martin
+    77...Harper Thompson
+    78...Jacob Garcia
+    79...Evelyn Martinez
+    80...Lucas Robinson
+    81...Emma Smith
+    82...Liam Johnson
+    83...Olivia Williams
+    84...Noah Jones
+    85...Ava Brown
+    86...William Davis
+    87...Sophia Miller
+    88...James Wilson
+    89...Isabella Moore
+    90...Benjamin Taylor
+    91...Mia Anderson
+    92...Mason Thomas
+    93...Charlotte Jackson
+    94...Elijah White
+    95...Amelia Harris
+    96...Oliver Martin
+    97...Harper Thompson
+    98...Jacob Garcia
+    99...Evelyn Martinez
+   100...Lucas Robinson
+
+ 1	Emma Smith
+ 2	Liam Johnson
+ 3	Olivia Williams
+ 4	Noah Jones
+ 5	Ava Brown
+ 6	William Davis
+ 7	Sophia Miller
+ 8	James Wilson
+ 9	Isabella Moore
+10	Benjamin Taylor
+11	Mia Anderson
+12	Mason Thomas
+13	Charlotte Jackson
+14	Elijah White
+15	Amelia Harris
+16	Oliver Martin
+17	Harper Thompson
+18	Jacob Garcia
+19	Evelyn Martinez
+20	Lucas Robinson
+21	Emma Smith
+22	Liam Johnson
+23	Olivia Williams
+24	Noah Jones
+25	Ava Brown
+26	William Davis
+27	Sophia Miller
+28	James Wilson
+29	Isabella Moore
+30	Benjamin Taylor
+31	Mia Anderson
+32	Mason Thomas
+33	Charlotte Jackson
+34	Elijah White
+35	Amelia Harris
+36	Oliver Martin
+37	Harper Thompson
+38	Jacob Garcia
+39	Evelyn Martinez
+40	Lucas Robinson
+41	Emma Smith
+42	Liam Johnson
+43	Olivia Williams
+44	Noah Jones
+45	Ava Brown
+46	William Davis
+47	Sophia Miller
+48	James Wilson
+49	Isabella Moore
+50	Benjamin Taylor
+51	Mia Anderson
+52	Mason Thomas
+53	Charlotte Jackson
+54	Elijah White
+55	Amelia Harris
+56	Oliver Martin
+57	Harper Thompson
+58	Jacob Garcia
+59	Evelyn Martinez
+60	Lucas Robinson
+61	Emma Smith
+62	Liam Johnson
+63	Olivia Williams
+64	Noah Jones
+65	Ava Brown
+66	William Davis
+67	Sophia Miller
+68	James Wilson
+69	Isabella Moore
+70	Benjamin Taylor
+71	Mia Anderson
+72	Mason Thomas
+73	Charlotte Jackson
+74	Elijah White
+75	Amelia Harris
+76	Oliver Martin
+77	Harper Thompson
+78	Jacob Garcia
+79	Evelyn Martinez
+80	Lucas Robinson
+81	Emma Smith
+82	Liam Johnson
+83	Olivia Williams
+84	Noah Jones
+85	Ava Brown
+86	William Davis
+87	Sophia Miller
+88	James Wilson
+89	Isabella Moore
+90	Benjamin Taylor
+91	Mia Anderson
+92	Mason Thomas
+93	Charlotte Jackson
+94	Elijah White
+95	Amelia Harris
+96	Oliver Martin
+97	Harper Thompson
+98	Jacob Garcia
+99	Evelyn Martinez
+100	Lucas Robinson
+   1	Emma Smith
+   2	Liam Johnson
+   3	Olivia Williams
+   4	Noah Jones
+   5	Ava Brown
+   6	William Davis
+   7	Sophia Miller
+   8	James Wilson
+   9	Isabella Moore
+  10	Benjamin Taylor
+  11	Mia Anderson
+  12	Mason Thomas
+  13	Charlotte Jackson
+  14	Elijah White
+  15	Amelia Harris
+  16	Oliver Martin
+  17	Harper Thompson
+  18	Jacob Garcia
+  19	Evelyn Martinez
+  20	Lucas Robinson
+  21	Emma Smith
+  22	Liam Johnson
+  23	Olivia Williams
+  24	Noah Jones
+  25	Ava Brown
+  26	William Davis
+  27	Sophia Miller
+  28	James Wilson
+  29	Isabella Moore
+  30	Benjamin Taylor
+  31	Mia Anderson
+  32	Mason Thomas
+  33	Charlotte Jackson
+  34	Elijah White
+  35	Amelia Harris
+  36	Oliver Martin
+  37	Harper Thompson
+  38	Jacob Garcia
+  39	Evelyn Martinez
+  40	Lucas Robinson
+  41	Emma Smith
+  42	Liam Johnson
+  43	Olivia Williams
+  44	Noah Jones
+  45	Ava Brown
+  46	William Davis
+  47	Sophia Miller
+  48	James Wilson
+  49	Isabella Moore
+  50	Benjamin Taylor
+  51	Mia Anderson
+  52	Mason Thomas
+  53	Charlotte Jackson
+  54	Elijah White
+  55	Amelia Harris
+  56	Oliver Martin
+  57	Harper Thompson
+  58	Jacob Garcia
+  59	Evelyn Martinez
+  60	Lucas Robinson
+  61	Emma Smith
+  62	Liam Johnson
+  63	Olivia Williams
+  64	Noah Jones
+  65	Ava Brown
+  66	William Davis
+  67	Sophia Miller
+  68	James Wilson
+  69	Isabella Moore
+  70	Benjamin Taylor
+  71	Mia Anderson
+  72	Mason Thomas
+  73	Charlotte Jackson
+  74	Elijah White
+  75	Amelia Harris
+  76	Oliver Martin
+  77	Harper Thompson
+  78	Jacob Garcia
+  79	Evelyn Martinez
+  80	Lucas Robinson
+  81	Emma Smith
+  82	Liam Johnson
+  83	Olivia Williams
+  84	Noah Jones
+  85	Ava Brown
+  86	William Davis
+  87	Sophia Miller
+  88	James Wilson
+  89	Isabella Moore
+  90	Benjamin Taylor
+  91	Mia Anderson
+  92	Mason Thomas
+  93	Charlotte Jackson
+  94	Elijah White
+  95	Amelia Harris
+  96	Oliver Martin
+  97	Harper Thompson
+  98	Jacob Garcia
+  99	Evelyn Martinez
+ 100	Lucas Robinson
+     1	Emma Smith
+     2	Liam Johnson
+     3	Olivia Williams
+     4	Noah Jones
+     5	Ava Brown
+     6	William Davis
+     7	Sophia Miller
+     8	James Wilson
+     9	Isabella Moore
+    10	Benjamin Taylor
+    11	Mia Anderson
+    12	Mason Thomas
+    13	Charlotte Jackson
+    14	Elijah White
+    15	Amelia Harris
+    16	Oliver Martin
+    17	Harper Thompson
+    18	Jacob Garcia
+    19	Evelyn Martinez
+    20	Lucas Robinson
+    21	Emma Smith
+    22	Liam Johnson
+    23	Olivia Williams
+    24	Noah Jones
+    25	Ava Brown
+    26	William Davis
+    27	Sophia Miller
+    28	James Wilson
+    29	Isabella Moore
+    30	Benjamin Taylor
+    31	Mia Anderson
+    32	Mason Thomas
+    33	Charlotte Jackson
+    34	Elijah White
+    35	Amelia Harris
+    36	Oliver Martin
+    37	Harper Thompson
+    38	Jacob Garcia
+    39	Evelyn Martinez
+    40	Lucas Robinson
+    41	Emma Smith
+    42	Liam Johnson
+    43	Olivia Williams
+    44	Noah Jones
+    45	Ava Brown
+    46	William Davis
+    47	Sophia Miller
+    48	James Wilson
+    49	Isabella Moore
+    50	Benjamin Taylor
+    51	Mia Anderson
+    52	Mason Thomas
+    53	Charlotte Jackson
+    54	Elijah White
+    55	Amelia Harris
+    56	Oliver Martin
+    57	Harper Thompson
+    58	Jacob Garcia
+    59	Evelyn Martinez
+    60	Lucas Robinson
+    61	Emma Smith
+    62	Liam Johnson
+    63	Olivia Williams
+    64	Noah Jones
+    65	Ava Brown
+    66	William Davis
+    67	Sophia Miller
+    68	James Wilson
+    69	Isabella Moore
+    70	Benjamin Taylor
+    71	Mia Anderson
+    72	Mason Thomas
+    73	Charlotte Jackson
+    74	Elijah White
+    75	Amelia Harris
+    76	Oliver Martin
+    77	Harper Thompson
+    78	Jacob Garcia
+    79	Evelyn Martinez
+    80	Lucas Robinson
+    81	Emma Smith
+    82	Liam Johnson
+    83	Olivia Williams
+    84	Noah Jones
+    85	Ava Brown
+    86	William Davis
+    87	Sophia Miller
+    88	James Wilson
+    89	Isabella Moore
+    90	Benjamin Taylor
+    91	Mia Anderson
+    92	Mason Thomas
+    93	Charlotte Jackson
+    94	Elijah White
+    95	Amelia Harris
+    96	Oliver Martin
+    97	Harper Thompson
+    98	Jacob Garcia
+    99	Evelyn Martinez
+   100	Lucas Robinson
+
+1     	Emma Smith
+2     	Liam Johnson
+3     	Olivia Williams
+4     	Noah Jones
+5     	Ava Brown
+6     	William Davis
+7     	Sophia Miller
+8     	James Wilson
+9     	Isabella Moore
+10    	Benjamin Taylor
+11    	Mia Anderson
+12    	Mason Thomas
+13    	Charlotte Jackson
+14    	Elijah White
+15    	Amelia Harris
+16    	Oliver Martin
+17    	Harper Thompson
+18    	Jacob Garcia
+19    	Evelyn Martinez
+20    	Lucas Robinson
+21    	Emma Smith
+22    	Liam Johnson
+23    	Olivia Williams
+24    	Noah Jones
+25    	Ava Brown
+26    	William Davis
+27    	Sophia Miller
+28    	James Wilson
+29    	Isabella Moore
+30    	Benjamin Taylor
+31    	Mia Anderson
+32    	Mason Thomas
+33    	Charlotte Jackson
+34    	Elijah White
+35    	Amelia Harris
+36    	Oliver Martin
+37    	Harper Thompson
+38    	Jacob Garcia
+39    	Evelyn Martinez
+40    	Lucas Robinson
+41    	Emma Smith
+42    	Liam Johnson
+43    	Olivia Williams
+44    	Noah Jones
+45    	Ava Brown
+46    	William Davis
+47    	Sophia Miller
+48    	James Wilson
+49    	Isabella Moore
+50    	Benjamin Taylor
+51    	Mia Anderson
+52    	Mason Thomas
+53    	Charlotte Jackson
+54    	Elijah White
+55    	Amelia Harris
+56    	Oliver Martin
+57    	Harper Thompson
+58    	Jacob Garcia
+59    	Evelyn Martinez
+60    	Lucas Robinson
+61    	Emma Smith
+62    	Liam Johnson
+63    	Olivia Williams
+64    	Noah Jones
+65    	Ava Brown
+66    	William Davis
+67    	Sophia Miller
+68    	James Wilson
+69    	Isabella Moore
+70    	Benjamin Taylor
+71    	Mia Anderson
+72    	Mason Thomas
+73    	Charlotte Jackson
+74    	Elijah White
+75    	Amelia Harris
+76    	Oliver Martin
+77    	Harper Thompson
+78    	Jacob Garcia
+79    	Evelyn Martinez
+80    	Lucas Robinson
+81    	Emma Smith
+82    	Liam Johnson
+83    	Olivia Williams
+84    	Noah Jones
+85    	Ava Brown
+86    	William Davis
+87    	Sophia Miller
+88    	James Wilson
+89    	Isabella Moore
+90    	Benjamin Taylor
+91    	Mia Anderson
+92    	Mason Thomas
+93    	Charlotte Jackson
+94    	Elijah White
+95    	Amelia Harris
+96    	Oliver Martin
+97    	Harper Thompson
+98    	Jacob Garcia
+99    	Evelyn Martinez
+100   	Lucas Robinson
+     1	Emma Smith
+     2	Liam Johnson
+     3	Olivia Williams
+     4	Noah Jones
+     5	Ava Brown
+     6	William Davis
+     7	Sophia Miller
+     8	James Wilson
+     9	Isabella Moore
+    10	Benjamin Taylor
+    11	Mia Anderson
+    12	Mason Thomas
+    13	Charlotte Jackson
+    14	Elijah White
+    15	Amelia Harris
+    16	Oliver Martin
+    17	Harper Thompson
+    18	Jacob Garcia
+    19	Evelyn Martinez
+    20	Lucas Robinson
+    21	Emma Smith
+    22	Liam Johnson
+    23	Olivia Williams
+    24	Noah Jones
+    25	Ava Brown
+    26	William Davis
+    27	Sophia Miller
+    28	James Wilson
+    29	Isabella Moore
+    30	Benjamin Taylor
+    31	Mia Anderson
+    32	Mason Thomas
+    33	Charlotte Jackson
+    34	Elijah White
+    35	Amelia Harris
+    36	Oliver Martin
+    37	Harper Thompson
+    38	Jacob Garcia
+    39	Evelyn Martinez
+    40	Lucas Robinson
+    41	Emma Smith
+    42	Liam Johnson
+    43	Olivia Williams
+    44	Noah Jones
+    45	Ava Brown
+    46	William Davis
+    47	Sophia Miller
+    48	James Wilson
+    49	Isabella Moore
+    50	Benjamin Taylor
+    51	Mia Anderson
+    52	Mason Thomas
+    53	Charlotte Jackson
+    54	Elijah White
+    55	Amelia Harris
+    56	Oliver Martin
+    57	Harper Thompson
+    58	Jacob Garcia
+    59	Evelyn Martinez
+    60	Lucas Robinson
+    61	Emma Smith
+    62	Liam Johnson
+    63	Olivia Williams
+    64	Noah Jones
+    65	Ava Brown
+    66	William Davis
+    67	Sophia Miller
+    68	James Wilson
+    69	Isabella Moore
+    70	Benjamin Taylor
+    71	Mia Anderson
+    72	Mason Thomas
+    73	Charlotte Jackson
+    74	Elijah White
+    75	Amelia Harris
+    76	Oliver Martin
+    77	Harper Thompson
+    78	Jacob Garcia
+    79	Evelyn Martinez
+    80	Lucas Robinson
+    81	Emma Smith
+    82	Liam Johnson
+    83	Olivia Williams
+    84	Noah Jones
+    85	Ava Brown
+    86	William Davis
+    87	Sophia Miller
+    88	James Wilson
+    89	Isabella Moore
+    90	Benjamin Taylor
+    91	Mia Anderson
+    92	Mason Thomas
+    93	Charlotte Jackson
+    94	Elijah White
+    95	Amelia Harris
+    96	Oliver Martin
+    97	Harper Thompson
+    98	Jacob Garcia
+    99	Evelyn Martinez
+   100	Lucas Robinson
+000001	Emma Smith
+000002	Liam Johnson
+000003	Olivia Williams
+000004	Noah Jones
+000005	Ava Brown
+000006	William Davis
+000007	Sophia Miller
+000008	James Wilson
+000009	Isabella Moore
+000010	Benjamin Taylor
+000011	Mia Anderson
+000012	Mason Thomas
+000013	Charlotte Jackson
+000014	Elijah White
+000015	Amelia Harris
+000016	Oliver Martin
+000017	Harper Thompson
+000018	Jacob Garcia
+000019	Evelyn Martinez
+000020	Lucas Robinson
+000021	Emma Smith
+000022	Liam Johnson
+000023	Olivia Williams
+000024	Noah Jones
+000025	Ava Brown
+000026	William Davis
+000027	Sophia Miller
+000028	James Wilson
+000029	Isabella Moore
+000030	Benjamin Taylor
+000031	Mia Anderson
+000032	Mason Thomas
+000033	Charlotte Jackson
+000034	Elijah White
+000035	Amelia Harris
+000036	Oliver Martin
+000037	Harper Thompson
+000038	Jacob Garcia
+000039	Evelyn Martinez
+000040	Lucas Robinson
+000041	Emma Smith
+000042	Liam Johnson
+000043	Olivia Williams
+000044	Noah Jones
+000045	Ava Brown
+000046	William Davis
+000047	Sophia Miller
+000048	James Wilson
+000049	Isabella Moore
+000050	Benjamin Taylor
+000051	Mia Anderson
+000052	Mason Thomas
+000053	Charlotte Jackson
+000054	Elijah White
+000055	Amelia Harris
+000056	Oliver Martin
+000057	Harper Thompson
+000058	Jacob Garcia
+000059	Evelyn Martinez
+000060	Lucas Robinson
+000061	Emma Smith
+000062	Liam Johnson
+000063	Olivia Williams
+000064	Noah Jones
+000065	Ava Brown
+000066	William Davis
+000067	Sophia Miller
+000068	James Wilson
+000069	Isabella Moore
+000070	Benjamin Taylor
+000071	Mia Anderson
+000072	Mason Thomas
+000073	Charlotte Jackson
+000074	Elijah White
+000075	Amelia Harris
+000076	Oliver Martin
+000077	Harper Thompson
+000078	Jacob Garcia
+000079	Evelyn Martinez
+000080	Lucas Robinson
+000081	Emma Smith
+000082	Liam Johnson
+000083	Olivia Williams
+000084	Noah Jones
+000085	Ava Brown
+000086	William Davis
+000087	Sophia Miller
+000088	James Wilson
+000089	Isabella Moore
+000090	Benjamin Taylor
+000091	Mia Anderson
+000092	Mason Thomas
+000093	Charlotte Jackson
+000094	Elijah White
+000095	Amelia Harris
+000096	Oliver Martin
+000097	Harper Thompson
+000098	Jacob Garcia
+000099	Evelyn Martinez
+000100	Lucas Robinson
+
+0 S  1000    3565    1239  1  80   0 - 140423 do_pol ?       00:00:00 gnome-terminal-
+
+
+
+
+
+
+
+
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+
+
+
+2024-04-05 22:27                    file1.txt                     Page 1
+
+
+Emma Smith		Amelia Harris		James Wilson
+Liam Johnson		Oliver Martin		Isabella Moore
+Olivia Williams		Harper Thompson		Benjamin Taylor
+Noah Jones		Jacob Garcia		Mia Anderson
+Ava Brown		Evelyn Martinez		Mason Thomas
+William Davis		Lucas Robinson		Charlotte Jackson
+Sophia Miller		Emma Smith		Elijah White
+James Wilson		Liam Johnson		Amelia Harris
+Isabella Moore		Olivia Williams		Oliver Martin
+Benjamin Taylor		Noah Jones		Harper Thompson
+Mia Anderson		Ava Brown		Jacob Garcia
+Mason Thomas		William Davis		Evelyn Martinez
+Charlotte Jackson	Sophia Miller		Lucas Robinson
+Elijah White		James Wilson		Emma Smith
+Amelia Harris		Isabella Moore		Liam Johnson
+Oliver Martin		Benjamin Taylor		Olivia Williams
+Harper Thompson		Mia Anderson		Noah Jones
+Jacob Garcia		Mason Thomas		Ava Brown
+Evelyn Martinez		Charlotte Jackson	William Davis
+Lucas Robinson		Elijah White		Sophia Miller
+Emma Smith		Amelia Harris		James Wilson
+Liam Johnson		Oliver Martin		Isabella Moore
+Olivia Williams		Harper Thompson		Benjamin Taylor
+Noah Jones		Jacob Garcia		Mia Anderson
+Ava Brown		Evelyn Martinez		Mason Thomas
+William Davis		Lucas Robinson		Charlotte Jackson
+Sophia Miller		Emma Smith		Elijah White
+James Wilson		Liam Johnson		Amelia Harris
+Isabella Moore		Olivia Williams		Oliver Martin
+Benjamin Taylor		Noah Jones		Harper Thompson
+Mia Anderson		Ava Brown		Jacob Garcia
+Mason Thomas		William Davis		Evelyn Martinez
+Charlotte Jackson	Sophia Miller		Lucas Robinson
+Elijah White
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+
+
+
+2024-04-05 22:27                    file1.txt                     Page 1
+
+
+Emma Smith
+
+Liam Johnson
+
+Olivia Williams
+
+Noah Jones
+
+Ava Brown
+
+William Davis
+
+Sophia Miller
+
+James Wilson
+
+Isabella Moore
+
+Benjamin Taylor
+
+Mia Anderson
+
+Mason Thomas
+
+Charlotte Jackson
+
+Elijah White
+
+Amelia Harris
+
+Oliver Martin
+
+Harper Thompson
+
+Jacob Garcia
+
+Evelyn Martinez
+
+Lucas Robinson
+
+Emma Smith
+
+Liam Johnson
+
+Olivia Williams
+
+Noah Jones
+
+Ava Brown
+
+William Davis
+
+Sophia Miller
+
+James Wilson
+
+
+
+
+
+
+
+
+2024-04-05 22:27                    file1.txt                     Page 2
+
+
+Isabella Moore
+
+Benjamin Taylor
+
+Mia Anderson
+
+Mason Thomas
+
+Charlotte Jackson
+
+Elijah White
+
+Amelia Harris
+
+Oliver Martin
+
+Harper Thompson
+
+Jacob Garcia
+
+Evelyn Martinez
+
+Lucas Robinson
+
+Emma Smith
+
+Liam Johnson
+
+Olivia Williams
+
+Noah Jones
+
+Ava Brown
+
+William Davis
+
+Sophia Miller
+
+James Wilson
+
+Isabella Moore
+
+Benjamin Taylor
+
+Mia Anderson
+
+Mason Thomas
+
+Charlotte Jackson
+
+Elijah White
+
+Amelia Harris
+
+Oliver Martin
+
+
+
+
+
+
+
+
+2024-04-05 22:27                    file1.txt                     Page 3
+
+
+Harper Thompson
+
+Jacob Garcia
+
+Evelyn Martinez
+
+Lucas Robinson
+
+Emma Smith
+
+Liam Johnson
+
+Olivia Williams
+
+Noah Jones
+
+Ava Brown
+
+William Davis
+
+Sophia Miller
+
+James Wilson
+
+Isabella Moore
+
+Benjamin Taylor
+
+Mia Anderson
+
+Mason Thomas
+
+Charlotte Jackson
+
+Elijah White
+
+Amelia Harris
+
+Oliver Martin
+
+Harper Thompson
+
+Jacob Garcia
+
+Evelyn Martinez
+
+Lucas Robinson
+
+Emma Smith
+
+Liam Johnson
+
+Olivia Williams
+
+Noah Jones
+
+
+
+
+
+
+
+
+2024-04-05 22:27                    file1.txt                     Page 4
+
+
+Ava Brown
+
+William Davis
+
+Sophia Miller
+
+James Wilson
+
+Isabella Moore
+
+Benjamin Taylor
+
+Mia Anderson
+
+Mason Thomas
+
+Charlotte Jackson
+
+Elijah White
+
+Amelia Harris
+
+Oliver Martin
+
+Harper Thompson
+
+Jacob Garcia
+
+Evelyn Martinez
+
+Lucas Robinson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024-04-05 22:27                    file1.txt                     Page 1
+
+
+    1	Emma Smith
+    2	Liam Johnson
+    3	Olivia Williams
+    4	Noah Jones
+    5	Ava Brown
+    6	William Davis
+    7	Sophia Miller
+    8	James Wilson
+    9	Isabella Moore
+   10	Benjamin Taylor
+   11	Mia Anderson
+   12	Mason Thomas
+   13	Charlotte Jackson
+   14	Elijah White
+   15	Amelia Harris
+   16	Oliver Martin
+   17	Harper Thompson
+   18	Jacob Garcia
+   19	Evelyn Martinez
+   20	Lucas Robinson
+   21	Emma Smith
+   22	Liam Johnson
+   23	Olivia Williams
+   24	Noah Jones
+   25	Ava Brown
+   26	William Davis
+   27	Sophia Miller
+   28	James Wilson
+   29	Isabella Moore
+   30	Benjamin Taylor
+   31	Mia Anderson
+   32	Mason Thomas
+   33	Charlotte Jackson
+   34	Elijah White
+   35	Amelia Harris
+   36	Oliver Martin
+   37	Harper Thompson
+   38	Jacob Garcia
+   39	Evelyn Martinez
+   40	Lucas Robinson
+   41	Emma Smith
+   42	Liam Johnson
+   43	Olivia Williams
+   44	Noah Jones
+   45	Ava Brown
+   46	William Davis
+   47	Sophia Miller
+   48	James Wilson
+   49	Isabella Moore
+   50	Benjamin Taylor
+   51	Mia Anderson
+   52	Mason Thomas
+   53	Charlotte Jackson
+   54	Elijah White
+   55	Amelia Harris
+   56	Oliver Martin
+
+
+
+
+
+
+
+2024-04-05 22:27                    file1.txt                     Page 2
+
+
+   57	Harper Thompson
+   58	Jacob Garcia
+   59	Evelyn Martinez
+   60	Lucas Robinson
+   61	Emma Smith
+   62	Liam Johnson
+   63	Olivia Williams
+   64	Noah Jones
+   65	Ava Brown
+   66	William Davis
+   67	Sophia Miller
+   68	James Wilson
+   69	Isabella Moore
+   70	Benjamin Taylor
+   71	Mia Anderson
+   72	Mason Thomas
+   73	Charlotte Jackson
+   74	Elijah White
+   75	Amelia Harris
+   76	Oliver Martin
+   77	Harper Thompson
+   78	Jacob Garcia
+   79	Evelyn Martinez
+   80	Lucas Robinson
+   81	Emma Smith
+   82	Liam Johnson
+   83	Olivia Williams
+   84	Noah Jones
+   85	Ava Brown
+   86	William Davis
+   87	Sophia Miller
+   88	James Wilson
+   89	Isabella Moore
+   90	Benjamin Taylor
+   91	Mia Anderson
+   92	Mason Thomas
+   93	Charlotte Jackson
+   94	Elijah White
+   95	Amelia Harris
+   96	Oliver Martin
+   97	Harper Thompson
+   98	Jacob Garcia
+   99	Evelyn Martinez
+  100	Lucas Robinson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024-04-05 22:27                      header                      Page 1
+
+
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+
+
+
+
+
+
+
+2024-04-05 22:27                      header                      Page 2
+
+
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+Emma Smith
+Liam Johnson
+Olivia Williams
+Noah Jones
+Ava Brown
+William Davis
+Sophia Miller
+James Wilson
+Isabella Moore
+Benjamin Taylor
+Mia Anderson
+Mason Thomas
+Charlotte Jackson
+Elijah White
+Amelia Harris
+Oliver Martin
+Harper Thompson
+Jacob Garcia
+Evelyn Martinez
+Lucas Robinson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pr (GNU coreutils) 8.32
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Pete TerMaat and Roland Huebner.
+
+
+
+
+
+Trying 127.0.0.1...
+
+[!p[?3;4l[4l>[?69l
+c]104[!p[?3;4l[4l>[?69l
+xterm with 256 colors
+ncurses 6.3.20211021
+
+/dev/pts/0
+tty (GNU coreutils) 8.32
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by David MacKenzie.
+
+Linux yesh 6.5.0-26-generic #26~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Mar 12 10:22:43 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+Linux
+
+yesh
+
+6.5.0-26-generic
+
+#26~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Mar 12 10:22:43 UTC 2
+
+x86_64
+
+x86_64
+
+x86_64
+
+GNU/Linux
+ 100  200 1390 file1.txt
+
+ 1  4 17 file2.txt
+
+ 100  200 1390 file1.txt
+   1    4   17 file2.txt
+ 101  204 1407 total
+
+100 file1.txt
+
+ 100 file1.txt
+   1 file2.txt
+ 101 total
+
+200 file1.txt
+
+ 200 file1.txt
+   4 file2.txt
+ 204 total
+
+1390 file1.txt
+
+1390 file1.txt
+  17 file2.txt
+1407 total
+
+1390 file1.txt
+
+1390 file1.txt
+  17 file2.txt
+1407 total
+
+17 file1.txt
+
+  17 file1.txt
+  16 file2.txt
+  17 total
+
+           system boot  2024-04-08 20:04
+           run-level 5  2024-04-08 20:04
+yesh     + tty2         2024-04-08 20:05 00:05        1282 (tty2)
+           pts/1        2024-04-08 20:10              3669 id=ts/1  term=0 exit=0
+
+         system boot  2024-04-08 20:04
+
+         pts/1        2024-04-08 20:10              3669 id=ts/1  term=0 exit=0
+
+NAME     LINE         TIME             COMMENT
+yesh     tty2         2024-04-08 20:05 (tty2)
+
+
+
+
+yesh
+# users=1
+
+         run-level 5  2024-04-08 20:04
+
+yesh     tty2         2024-04-08 20:05 (tty2)
+
+
+yesh     tty2         2024-04-08 20:05 00:05        1282 (tty2)
+
