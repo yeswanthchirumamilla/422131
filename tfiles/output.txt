@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
  more -d sample.txt
  
@@ -2136,3 +2137,61 @@ yesh     tty2         2024-04-08 20:05 (tty2)
 
 yesh     tty2         2024-04-08 20:05 00:05        1282 (tty2)
 
+=======
+
+Using bc:
+12
+0
+11
+yep
+Using comm:
+Isabella Garcia 
+James Wilson 
+Matthew Anderson 
+	Emily Smith 
+	John Davis 
+Ryan Harris 
+
+Using chown:
+-rw-rw-r-- 1 student student 0 Apr  1 12:08 example.txt
+-rw-rw-r-- 1 student student 0 Apr  1 12:08 example.txt
+failed to change ownership of 'example1.txt' from student to root
+
+Using chgrp:
+-rw-rw-r-- 1 student student 0 Apr  1 12:08 example.txt
+
+Using cron:
+*/1 * * * * echo 'oreva monkey d luffy'
+
+Using dd:
+
+Using diff:
+
+Using finger:
+
+Using find:
+./example1.txt
+./output.txt
+./source.txt
+./file1.txt
+./target.txt
+./example.txt
+./file2.txt
+
+Using ftp:
+Not connected.
+Not connected.
+
+Using lock:
+
+Using ln:
+
+Using lp:
+
+Using lpstat:
+printer HP_LaserJet_Pro_M329_DF1BC5_ is idle.  enabled since Thursday 22 September 2022 10:21:00 AM
+printer HP_LaserJet_Pro_M329_DF8BEF_ is idle.  enabled since Friday 31 December 2021 10:22:32 AM
+
+Using mesg:
+is y
+>>>>>>> origin/master
