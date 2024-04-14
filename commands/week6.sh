@@ -63,3 +63,4 @@ lpstat -p
 echo -e "\nUsing mesg:"
 mesg 
 mesg y
+
