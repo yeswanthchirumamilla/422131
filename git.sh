@@ -26,6 +26,6 @@ git checkout master
 
 git merge v1
 
-git remote add origin
+git remote add origin https://github.com/yeswanthchirumamilla/unix_assignments.git
 
 git push -u origin master
