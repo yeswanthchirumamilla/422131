@@ -1,0 +1,22 @@
+﻿Creating an uncompressed tar Archive
+hello1.txt
+cpio.sh
+file1.tar.gz
+file2.tar.tbz
+file.tar
+hello1.txt
+hello2.txt
+hello3.txt
+hello.sh
+one.cpio
+one.tar
+tar_out.txt
+tar.sh
+
+
+
+
+ gzip compression on the tar Archive, using option -z
+hello1.txt
+hello2.txt
+hello3.txt

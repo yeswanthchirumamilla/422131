@@ -1,0 +1,74 @@
+﻿1)412131  YESWANTH  CSE   28
+2)425125  JOSEPH    ECE   27
+3)422134  STEVE   EEE   24
+4)423167  BOB   MME   21
+5)622260  ANNIIE    MECH  23
+6)722511  MARK    CIVIL 19
+7)524308  RIMURU    EEE   30
+8)522113  DHEERAJ   EEE   27
+9)321134  BERLIN     CSE   26
+
+
+
+
+1)412131 CSE
+2)425125 ECE
+3)422134 EEE
+4)423167 MME
+5)622260 MECH
+6)722511 CIVIL
+7)524308 EEE
+8)522113 EEE
+9)321134 CSE
+ 
+ 
+225
+20.4545
+)41
+)42
+)42
+)42
+)62
+)72
+)52
+)52
+)32
+
+
+
+
+28
+27
+24
+21
+23
+19
+30
+27
+26
+
+
+
+
+senior
+senior
+junior
+junior
+junior
+junior
+senior
+senior
+senior
+junior
+junior
+784
+729
+576
+441
+529
+361
+900
+729
+676
+0
+0
